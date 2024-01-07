@@ -36,7 +36,7 @@ This simple calculator project provides basic arithmetic operations in a user-fr
 1. Clone or download the repository.
 
    ```bash
-   git clone https://github.com/your-username/calculator-project.git
+   https://github.com/Ashique01/calcultaor.git
    ```
 
 2. Open the `index.html` file in a web browser to launch the calculator.
