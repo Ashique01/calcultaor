@@ -1,6 +1,6 @@
-# Calculator Project Readme
+# Calculator Project
 
-This simple calculator project provides basic arithmetic operations in a user-friendly interface. Users can perform addition, subtraction, multiplication, and division, as well as use the percentage operator. The calculator also allows users to clear the display, remove the last entered character, and calculate results.
+This simple calculator project provides a user-friendly interface for basic arithmetic operations, including addition, subtraction, multiplication, division, and percentage calculations. Users can also clear the display, remove the last entered character, and calculate results with ease.
 
 ## Features
 
@@ -33,15 +33,18 @@ This simple calculator project provides basic arithmetic operations in a user-fr
 
 ## Usage
 
-1. Clone or download the repository.
+1. **Clone or Download:**
+   - Clone or download the repository to your local machine:
 
-   ```bash
-   https://github.com/Ashique01/calcultaor.git
-   ```
+     ```bash
+     git clone https://github.com/Ashique01/calculator.git
+     ```
 
-2. Open the `index.html` file in a web browser to launch the calculator.
+2. **Open in Browser:**
+   - Open the `index.html` file in a web browser to launch the calculator.
 
-3. Perform arithmetic operations by clicking the corresponding buttons.
+3. **Perform Calculations:**
+   - Perform arithmetic operations by clicking the corresponding buttons on the calculator.
 
 ## Project Structure
 
@@ -49,6 +52,14 @@ This simple calculator project provides basic arithmetic operations in a user-fr
 - **style.css:** CSS file for styling the calculator layout.
 - **index.js:** JavaScript file for implementing calculator functionality.
 
+## Live Demo
+
+Check out the live demo [here](https://simple-calculator01.netlify.app/).
+
 ## Development
 
 Feel free to contribute to this project by submitting pull requests or opening issues. If you encounter any bugs or have suggestions for improvements, please let us know.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
