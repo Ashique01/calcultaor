@@ -60,6 +60,3 @@ Check out the live demo [here](https://simple-calculator01.netlify.app/).
 
 Feel free to contribute to this project by submitting pull requests or opening issues. If you encounter any bugs or have suggestions for improvements, please let us know.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
